@@ -1,0 +1,3 @@
+arquivo .csproj: contém informações referente a um projeto (build, debug, versão)
+
+arquivo. sln (solution): contém informações que carregam um agrupamento de projetos
