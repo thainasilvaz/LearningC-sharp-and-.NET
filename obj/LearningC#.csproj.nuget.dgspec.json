@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thain\\OneDrive\\Área de Trabalho\\fundamentos .NET e C#\\fundamentos .NET e C#.csproj": {}
+    "C:\\Users\\thain\\OneDrive\\Área de Trabalho\\LearningC#\\LearningC#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thain\\OneDrive\\Área de Trabalho\\fundamentos .NET e C#\\fundamentos .NET e C#.csproj": {
+    "C:\\Users\\thain\\OneDrive\\Área de Trabalho\\LearningC#\\LearningC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thain\\OneDrive\\Área de Trabalho\\fundamentos .NET e C#\\fundamentos .NET e C#.csproj",
-        "projectName": "fundamentos .NET e C#",
-        "projectPath": "C:\\Users\\thain\\OneDrive\\Área de Trabalho\\fundamentos .NET e C#\\fundamentos .NET e C#.csproj",
+        "projectUniqueName": "C:\\Users\\thain\\OneDrive\\Área de Trabalho\\LearningC#\\LearningC#.csproj",
+        "projectName": "LearningC#",
+        "projectPath": "C:\\Users\\thain\\OneDrive\\Área de Trabalho\\LearningC#\\LearningC#.csproj",
         "packagesPath": "C:\\Users\\thain\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thain\\OneDrive\\Área de Trabalho\\fundamentos .NET e C#\\obj\\",
+        "outputPath": "C:\\Users\\thain\\OneDrive\\Área de Trabalho\\LearningC#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thain\\AppData\\Roaming\\NuGet\\NuGet.Config"

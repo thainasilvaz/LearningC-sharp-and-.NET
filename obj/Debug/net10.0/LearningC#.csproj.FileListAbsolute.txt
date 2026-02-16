@@ -1,0 +1,15 @@
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\bin\Debug\net10.0\LearningC#.exe
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\bin\Debug\net10.0\LearningC#.deps.json
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\bin\Debug\net10.0\LearningC#.runtimeconfig.json
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\bin\Debug\net10.0\LearningC#.dll
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\bin\Debug\net10.0\LearningC#.pdb
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\obj\Debug\net10.0\LearningC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\obj\Debug\net10.0\LearningC#.AssemblyInfoInputs.cache
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\obj\Debug\net10.0\LearningC#.AssemblyInfo.cs
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\obj\Debug\net10.0\LearningC#.csproj.CoreCompileInputs.cache
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\obj\Debug\net10.0\LearningC#.sourcelink.json
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\obj\Debug\net10.0\LearningC#.dll
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\obj\Debug\net10.0\refint\LearningC#.dll
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\obj\Debug\net10.0\LearningC#.pdb
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\obj\Debug\net10.0\LearningC#.genruntimeconfig.cache
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\obj\Debug\net10.0\ref\LearningC#.dll
