@@ -1,0 +1,15 @@
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\Aprofundamento\bin\Debug\net10.0\Aprofundamento.exe
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\Aprofundamento\bin\Debug\net10.0\Aprofundamento.deps.json
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\Aprofundamento\bin\Debug\net10.0\Aprofundamento.runtimeconfig.json
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\Aprofundamento\bin\Debug\net10.0\Aprofundamento.dll
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\Aprofundamento\bin\Debug\net10.0\Aprofundamento.pdb
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\Aprofundamento\obj\Debug\net10.0\Aprofundamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\Aprofundamento\obj\Debug\net10.0\Aprofundamento.AssemblyInfoInputs.cache
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\Aprofundamento\obj\Debug\net10.0\Aprofundamento.AssemblyInfo.cs
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\Aprofundamento\obj\Debug\net10.0\Aprofundamento.csproj.CoreCompileInputs.cache
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\Aprofundamento\obj\Debug\net10.0\Aprofundamento.sourcelink.json
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\Aprofundamento\obj\Debug\net10.0\Aprofundamento.dll
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\Aprofundamento\obj\Debug\net10.0\refint\Aprofundamento.dll
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\Aprofundamento\obj\Debug\net10.0\Aprofundamento.pdb
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\Aprofundamento\obj\Debug\net10.0\Aprofundamento.genruntimeconfig.cache
+C:\Users\thain\OneDrive\Área de Trabalho\LearningC#\Aprofundamento\obj\Debug\net10.0\ref\Aprofundamento.dll
